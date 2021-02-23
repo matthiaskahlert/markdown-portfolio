@@ -1,7 +1,8 @@
 ## Top Skills
-* Testmanagement
-* Quality Assurance
-* ISTQB - Advancedlevel
+* _**Testmanagement**_
+* _**Quality Assurance**_
+* _**ISTQB - Advancedlevel**_
+
 
 ## Skills
 
@@ -30,6 +31,6 @@
 * Test Estimation
 * Standards & Metrics
 * Reviews
-* Risk-based Testing
+* R*isk-based Testing
 * Web based testing tools
 * Media technics
