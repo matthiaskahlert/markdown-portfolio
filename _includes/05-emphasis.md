@@ -31,6 +31,6 @@
 * Test Estimation
 * Standards & Metrics
 * Reviews
-* R*isk-based Testing
+* Risk-based Testing
 * Web based testing tools
 * Media technics
