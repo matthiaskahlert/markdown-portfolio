@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Matthias Kahlert](https://matthiaskahlert.github.io/resumee/images/matthias-kahlert.jpg)
