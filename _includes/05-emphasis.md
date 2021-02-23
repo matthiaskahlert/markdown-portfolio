@@ -1,7 +1,8 @@
 ## Top Skills
-* Testmanagement
-* Quality Assurance
-* ISTQB - Advancedlevel
+* _**Testmanagement**_
+* _**Quality Assurance**_
+* _**ISTQB - Advancedlevel**_
+
 
 ## Skills
 
